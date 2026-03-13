@@ -13,8 +13,8 @@ TEAM LEADER: ANUSHRI.V
 TEAM MEMBER: PRIYA DHRASHINI .M
     EMAIL:priyadhrashinisreemanth@gmail.com
     
-    TEAM MEMBER: SAKTHIVEL.T
+  TEAM MEMBER: SAKTHIVEL.T
     EMAIL:Saktthi1@gmail.com
     
-    TEAM MEMBER:NADHINI GOPAL
+ TEAM MEMBER:NADHINI GOPAL
     EMAIL:nandhinigopal@gmail.com
